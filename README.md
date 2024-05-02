@@ -1,1 +1,1 @@
-<p align = "center"> <img src = https://www.reddit.com/r/CharacterAI/comments/14emj6v/here_have_a_corn_dog_for_your_troubles_ed_sheeran/> </p>
+<p align = "center"> <img src = https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWZenrOtb_q3CPK4aSd1HCJG-Vnlp4MVBw7D_Ke0PSPKXV6LYB> </p>
