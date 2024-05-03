@@ -1,1 +1,1 @@
- <p align = "center"> <img src = https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/genshin-3.jpg> </p>
+ <p align = "center"> <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZwjfWgU3VnDOOH6DPO8Y_xjB4UUY47F5_fi14HO5Hg&s> </p>
