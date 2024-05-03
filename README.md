@@ -1,1 +1,1 @@
- <p align = "center"> <img src = blob:chrome-untrusted://media-app/9c13e48c-5bb0-42c3-bf11-a951b342a4c0> </p>
+ <p align = "center"> <img src = iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAYAAAA10dzkAAAAAXNSR0IArs4c6QAAIABJREFUeF7cvemWozlyJUjS3SMys1Tqeb7p1jLLP6l2lV5clUuE08k5ZoYLXBjMAHx0jyz18JyqSCe> </p>
