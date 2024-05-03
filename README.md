@@ -1,1 +1,1 @@
- <p align = "center"> <img src = iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAYAAAA10dzkAAAAAXNSR0IArs4c6QAAIABJREFUeF7cvemWozlyJUjS3SMys1Tqeb7p1jLLP6l2lV5clUuE08k5ZoYLXBjMAHx0jyz18JyqSCe> </p>
+ <p align = "center"> <img src = https://lh4.googleusercontent.com/5lHrI30f-akybP8u0R19JK9lbgUBneRfzy-s-p0kz-VteDdK8ZhbBjCbfqkcsFqpFiIXpRT0_uXl8x-9eMlJGeY> </p>
